@@ -1,4 +1,5 @@
-/*codigo para fuentes*/
+/*codigo para fuentes para los iconos
+*/
 /*.icon-pen:before {
 	content: "\e600";
 }
@@ -30,7 +31,7 @@ body {
 footer {
   background: #dd4f24;
   color: rgba(255,255,255,0.5);
-  paddin: 1em 0;
+  padding: 1em 0;
   text-align: center;
   width: 100%;
 }
@@ -43,7 +44,7 @@ footer h3 strong {
 }
 footer h3 .mejor:before,
 footer h3 .mejor:after {
-  content: "-";
+  content: " - ";
 }
 header {
   background: #444;
